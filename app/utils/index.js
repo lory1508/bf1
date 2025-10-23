@@ -10,3 +10,5 @@ export const classes = [
 	{label: 'Scout', value: 'scout'},
 	{label: 'Handguns', value: 'handguns'}
 ]
+
+export const delay = ms => new Promise(res => setTimeout(res, ms))
