@@ -4,11 +4,11 @@ export const CONSTANTS = {
 }
 
 export const classes = [
-	{label: 'Assault', value: 'assault'},
-	{label: 'Medic', value: 'medic'},
-	{label: 'Support', value: 'support'},
-	{label: 'Scout', value: 'scout'},
-	{label: 'Handguns', value: 'handguns'}
+	{alt: 'Assault', value: 'assault', icon: "/img/assault.svg"},
+	{alt: 'Medic', value: 'medic', icon: "/img/medic.svg"},
+	{alt: 'Support', value: 'support', icon: "/img/support.svg"},
+	{alt: 'Scout', value: 'scout', icon: "/img/scout.svg"},
+	{alt: 'Handguns', value: 'handguns', icon: "/img/handgun.svg"}
 ]
 
 export const delay = ms => new Promise(res => setTimeout(res, ms))
