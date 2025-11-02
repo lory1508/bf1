@@ -4,7 +4,7 @@ export const CONSTANTS = {
 };
 
 export const classes = [
-  { alt: "Home", value: "home", icon: "/img/home.svg" },
+  { alt: "Home", value: "", icon: "/img/home.svg" },
   { alt: "Assault", value: "assault", icon: "/img/assault.svg" },
   { alt: "Medic", value: "medic", icon: "/img/medic.svg" },
   { alt: "Support", value: "support", icon: "/img/support.svg" },

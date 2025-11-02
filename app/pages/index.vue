@@ -24,7 +24,7 @@
 
   onMounted(() => {
     icons.value = icons.value.filter(
-      (item) => item.value != "home"
+      (item) => item.value != ""
     );
   });
 
