@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full flex justify-between items-center">
+  <div class="w-full flex sticky top-0 justify-between items-center">
     <h1
       class="text-6xl font-battlefield uppercase hover:cursor-pointer transition-all duration-300 hover:text-amber-300"
       @click="goTo('')"
@@ -15,7 +15,6 @@
         :class="showSearch ? 'w-full' : 'w-0'"
       />
       <IconComponent
-        ref="target"
         icon="game-icons:crosshair"
         :width="48"
         :height="48"

@@ -21,4 +21,8 @@
   import { classes } from "#imports";
 
   const icons = classes;
+
+  useHead({
+    title: "Battlefield 1 - Home",
+  });
 </script>
