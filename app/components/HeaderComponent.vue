@@ -1,13 +1,13 @@
 <template>
-  <div class="w-full flex sticky top-0 justify-between items-center">
+  <div class="w-full flex flex-col xl:flex-row sticky z-50 top-0 justify-center xl:justify-between items-center backdrop-blur-md p-4">
     <h1
-      class="text-6xl font-battlefield uppercase hover:cursor-pointer transition-all duration-300 hover:text-amber-300"
+      class="text-5xl xl:text-6xl font-battlefield uppercase hover:cursor-pointer transition-all duration-300 hover:text-amber-300"
       @click="goTo('')"
     >
       {{ title }}
     </h1>
 
-    <div class="flex flex-row items-center justify-end">
+    <div class="flex flex-row items-center transition-all duration-300 justify-end">
       <input
         type="text"
         placeholder="Search..."

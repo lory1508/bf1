@@ -2,11 +2,16 @@
   <div
     class="w-full h-screen flex flex-col bg-[url('/img/wallpaper.jpg')] bg-cover bg-center"
   >
-    <div class="w-full min-h-screen bg-black/60 text-white backdrop-blur-xl p-4">
-      <!-- <LoaderComponent v-if="loading" /> -->
-      <HeaderComponent />
-
-      <slot />
+    <div class="bg-black/60 flex flex-col">
+      <div
+        class="w-full min-h-screen text-white overflow-y-scroll backdrop-blur-xl"
+      >
+        <HeaderComponent />
+        <!-- <LoaderComponent v-if="loading" /> -->
+        <div class="xl:p-4">
+          <slot />
+        </div>
+      </div>
     </div>
   </div>
 </template>
