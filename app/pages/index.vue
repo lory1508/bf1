@@ -2,7 +2,7 @@
   <div>
     <div class="xl:p-4 pb-8">
       <div
-        class="flex flex-col xl:flex-wrap w-full justify-center items-center gap-12 xl:px-80 mt-12"
+        class="flex flex-wrap w-full justify-center items-center gap-12 xl:px-80 mt-12"
       >
         <IconButton
           v-for="(item, index) in icons"
