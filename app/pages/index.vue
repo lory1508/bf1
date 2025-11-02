@@ -20,7 +20,13 @@
   import IconButton from "~/components/IconButton.vue";
   import { classes } from "#imports";
 
-  const icons = classes;
+  const icons = ref(classes);
+
+  onMounted(() => {
+    icons.value = icons.value.filter(
+      (item) => item.value != "home"
+    );
+  });
 
   useHead({
     title: "Battlefield 1 - Home",
