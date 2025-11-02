@@ -1,0 +1,4580 @@
+[
+ {
+   "class": "Assault",
+   "weapon": "Model 10-A",
+   "skin": "Camouflage Pattern",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 10-A",
+   "skin": "Camouflage Shroud",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 10-A",
+   "skin": "Camouflage Masking",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 10-A",
+   "skin": "Camouflage Veil",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 10-A",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 10-A",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 10-A",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 10-A",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 10-A",
+   "skin": "Brawler",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 10-A",
+   "skin": "Dillinger",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 10-A",
+   "skin": "Vaux",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 10-A",
+   "skin": "Gondrecourt",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 10-A",
+   "skin": "The Riot",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 10-A",
+   "skin": "The Rock of the Marne",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 10-A",
+   "skin": "The Cleveland",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M97 Trench Gun",
+   "skin": "Veteran Soldier",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M97 Trench Gun",
+   "skin": "Veteran Guard",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M97 Trench Gun",
+   "skin": "Veteran Infantry",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M97 Trench Gun",
+   "skin": "Veteran Cavalry",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M97 Trench Gun",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M97 Trench Gun",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M97 Trench Gun",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M97 Trench Gun",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M97 Trench Gun",
+   "skin": "Meuse",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M97 Trench Gun",
+   "skin": "Trenchbroom",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M97 Trench Gun",
+   "skin": "Chateau-Thierry",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M97 Trench Gun",
+   "skin": "Lieutenant Kelly",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M97 Trench Gun",
+   "skin": "The Sweeper",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M97 Trench Gun",
+   "skin": "The Burnett",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M97 Trench Gun",
+   "skin": "The Washington",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "Camouflage Pattern",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "Camouflage Shroud",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "Camouflage Masking",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "Camouflage Veil",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "Hazebrouck",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "Breakthrough Muller",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "Canal du Nord",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "Ramscapelle",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "The Kaiserschlacht",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "The Hutier",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "The Selle",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "Der Weimaraner",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "MP 18",
+   "skin": "Siegfriedstellung",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Automatico M1918",
+   "skin": "Royal Decree",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Automatico M1918",
+   "skin": "Royal Edict",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Automatico M1918",
+   "skin": "Royal Order",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Automatico M1918",
+   "skin": "Royal Statute",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Automatico M1918",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Automatico M1918",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Automatico M1918",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Automatico M1918",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Automatico M1918",
+   "skin": "Vittoria",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Automatico M1918",
+   "skin": "Isonzo",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Automatico M1918",
+   "skin": "Monte Cismone",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Automatico M1918",
+   "skin": "Papadopoli",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Automatico M1918",
+   "skin": "The Savoia",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Automatico M1918",
+   "skin": "The Mignatta",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Automatico M1918",
+   "skin": "Il Bracco",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "12g Automatic",
+   "skin": "Royal Decree",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "12g Automatic",
+   "skin": "Royal Edict",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "12g Automatic",
+   "skin": "Royal Order",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "12g Automatic",
+   "skin": "Royal Statute",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "12g Automatic",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "12g Automatic",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "12g Automatic",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "12g Automatic",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "12g Automatic",
+   "skin": "Argonne",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "12g Automatic",
+   "skin": "Thunderball",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "12g Automatic",
+   "skin": "Hill 142",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "12g Automatic",
+   "skin": "Undark",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "12g Automatic",
+   "skin": "The Bats",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "12g Automatic",
+   "skin": "The Truman",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Hellriegel 1915",
+   "skin": "Veteran Soldier",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Hellriegel 1915",
+   "skin": "Veteran Guard",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Hellriegel 1915",
+   "skin": "Veteran Infantry",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Hellriegel 1915",
+   "skin": "Veteran Cavalry",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Hellriegel 1915",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Hellriegel 1915",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Hellriegel 1915",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Hellriegel 1915",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Hellriegel 1915",
+   "skin": "Tyrol",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Hellriegel 1915",
+   "skin": "Snail",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Hellriegel 1915",
+   "skin": "Monte Piano",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Hellriegel 1915",
+   "skin": "Eidenberger",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Hellriegel 1915",
+   "skin": "The Archduke",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Hellriegel 1915",
+   "skin": "The Schreckenstein",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Hellriegel 1915",
+   "skin": "Die Tiroler Bracke",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Sjögren Inertial",
+   "skin": "House of Valois",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Sjögren Inertial",
+   "skin": "House of Lancaster",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Sjögren Inertial",
+   "skin": "House of Bourbon",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Sjögren Inertial",
+   "skin": "House of Bonaparte",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Sjögren Inertial",
+   "skin": "Douaumont",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Sjögren Inertial",
+   "skin": "Carl Axel",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Sjögren Inertial",
+   "skin": "Le Mort-Homme",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Sjögren Inertial",
+   "skin": "Thord-Grey",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Ribeyrolles",
+   "skin": "House of Valois",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Ribeyrolles",
+   "skin": "House of Lancaster",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Ribeyrolles",
+   "skin": "House of Bourbon",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Ribeyrolles",
+   "skin": "House of Bonaparte",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Ribeyrolles",
+   "skin": "Lazare",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Ribeyrolles",
+   "skin": "Esprit de corps",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Ribeyrolles",
+   "skin": "L'Union Sacrée",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Ribeyrolles",
+   "skin": "Forain",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 1900",
+   "skin": "Battle of Gnila Lipa",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 1900",
+   "skin": "Battle of Gorlice-Tarnòw",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 1900",
+   "skin": "Battle of Lutsk",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 1900",
+   "skin": "Battle of Jugla",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 1900",
+   "skin": "Sabaneyev",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 1900",
+   "skin": "Devana",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 1900",
+   "skin": "The Smorgon",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 1900",
+   "skin": "Fismes",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Model 1900",
+   "skin": "Fismette",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "SMG 08/18",
+   "skin": "Battle of Gnila Lipa",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "SMG 08/18",
+   "skin": "Battle of Gorlice-Tarnòw",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "SMG 08/18",
+   "skin": "Battle of Lutsk",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "SMG 08/18",
+   "skin": "Battle of Jugla",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "SMG 08/18",
+   "skin": "Faustschlag",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "SMG 08/18",
+   "skin": "Feldgrau",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "SMG 08/18",
+   "skin": "Von Kluck",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "SMG 08/18",
+   "skin": "Felixmüller",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "SMG 08/18",
+   "skin": "Bakhmach",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Maschinenpistole M1912/P.16",
+   "skin": "Battle of Tsingtao",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Maschinenpistole M1912/P.16",
+   "skin": "Battle of the Falkland Islands",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Maschinenpistole M1912/P.16",
+   "skin": "Battle of Jutland",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Maschinenpistole M1912/P.16",
+   "skin": "Battle of the Strait of Otranto",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Maschinenpistole M1912/P.16",
+   "skin": "Standschützen",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Maschinenpistole M1912/P.16",
+   "skin": "Major Fuchs",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Maschinenpistole M1912/P.16",
+   "skin": "The Tyrolean",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Maschinenpistole M1912/P.16",
+   "skin": "Schoenberg",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M1917 Carbine",
+   "skin": "Battle of Tsingtao",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M1917 Carbine",
+   "skin": "Battle of the Falkland Islands",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M1917 Carbine",
+   "skin": "Battle of Jutland",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M1917 Carbine",
+   "skin": "Battle of the Strait of Otranto",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M1917 Carbine",
+   "skin": "Feederle",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M1917 Carbine",
+   "skin": "Oberndorf",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M1917 Carbine",
+   "skin": "The Rohr",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "M1917 Carbine",
+   "skin": "Stramm",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "RSC SMG",
+   "skin": "en Mémoire",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "RSC SMG",
+   "skin": "Cravançon",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "RSC SMG",
+   "skin": "Saint Berthe",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "RSC SMG",
+   "skin": "Ancre",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "RSC SMG",
+   "skin": "Duriez",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "RSC SMG",
+   "skin": "Apollinaire",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "RSC SMG",
+   "skin": "The Ossuary",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "RSC SMG",
+   "skin": "Loup Garou",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "RSC SMG",
+   "skin": "Le Chat Noir",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Annihilator",
+   "skin": "Over There",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Annihilator",
+   "skin": "Billy Mitchell",
+   "exclusive": ""
+ },
+ {
+   "class": "Assault",
+   "weapon": "Annihilator",
+   "skin": "Toward the Flame",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "Royal Decree",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "Royal Edict",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "Royal Order",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "Royal Statute",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "Fiamme Verdi",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "Bersaglieri",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "Amerigo",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "Montenero",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "Capello",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "The Kirkpatrick",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "The Duke of Aosta",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "The Piave",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Cei-Rigotti",
+   "skin": "Bizzarrìa",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "Veteran Soldier",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "Veteran Guard",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "Veteran Infantry",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "Veteran Cavalry",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "Bavarian",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "Kronprinz",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "Linnarz",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "Nachtflugzeug",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "The Chancellor",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "The Kagohl",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "Odin",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader M1916",
+   "skin": "Blutigen April",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "M1907 SL",
+   "skin": "Camouflage Pattern",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "M1907 SL",
+   "skin": "Camouflage Shroud",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "M1907 SL",
+   "skin": "Camouflage Masking",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "M1907 SL",
+   "skin": "Camouflage Veil",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "M1907 SL",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "M1907 SL",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "M1907 SL",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "M1907 SL",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "M1907 SL",
+   "skin": "Deadlock",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "M1907 SL",
+   "skin": "Ypres",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "M1907 SL",
+   "skin": "Voisin",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "M1907 SL",
+   "skin": "Frantz",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "M1907 SL",
+   "skin": "The Blue Devil",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "M1907 SL",
+   "skin": "De Pierrot",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "M1907 SL",
+   "skin": "The Old Drum",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Mondragòn",
+   "skin": "Camouflage Pattern",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Mondragòn",
+   "skin": "Camouflage Shroud",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Mondragòn",
+   "skin": "Camouflage Masking",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Mondragòn",
+   "skin": "Camouflage Veil",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Mondragòn",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Mondragòn",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Mondragòn",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Mondragòn",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Mondragòn",
+   "skin": "Mesopolonica",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Mondragòn",
+   "skin": "Löwenhardt",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Mondragòn",
+   "skin": "Magnesium",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Mondragòn",
+   "skin": "Riesenflugzeug",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Mondragòn",
+   "skin": "The Mexican",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Mondragòn",
+   "skin": "The Bogohl",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Mondragòn",
+   "skin": "Ah Tabai",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Autoloading 8.35",
+   "skin": "Veteran Soldier",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Autoloading 8.35",
+   "skin": "Veteran Guard",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Autoloading 8.35",
+   "skin": "Veteran Infantry",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Autoloading 8.35",
+   "skin": "Veteran Cavalry",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Autoloading 8.35",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Autoloading 8.35",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Autoloading 8.35",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Autoloading 8.35",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Autoloading 8.35",
+   "skin": "Moses",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Autoloading 8.35",
+   "skin": "Brusilov",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Autoloading 8.35",
+   "skin": "Farman",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Autoloading 8.35",
+   "skin": "La Chauve-Souris",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Autoloading 8.35",
+   "skin": "The Hunter",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Autoloading 8.35",
+   "skin": "The Happe",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Autoloading 8.35",
+   "skin": "The Arneson",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader 1906",
+   "skin": "Royal Decree",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader 1906",
+   "skin": "Royal Edict",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader 1906",
+   "skin": "Royal Order",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader 1906",
+   "skin": "Royal Statute",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader 1906",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader 1906",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader 1906",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader 1906",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader 1906",
+   "skin": "Charleroi",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader 1906",
+   "skin": "Falkenhayn",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader 1906",
+   "skin": "Die Walkure",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader 1906",
+   "skin": "Waitzrik",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader 1906",
+   "skin": "The Kaiserin",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader 1906",
+   "skin": "The Hound of Mons",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Selbstlader 1906",
+   "skin": "Das Jagdschloss Rominten",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "RSC 1917",
+   "skin": "House of Valois",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "RSC 1917",
+   "skin": "House of Lancaster",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "RSC 1917",
+   "skin": "House of Bourbon",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "RSC 1917",
+   "skin": "House of Bonaparte",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "RSC 1917",
+   "skin": "Grandmaison",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "RSC 1917",
+   "skin": "Papa Joffre",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "RSC 1917",
+   "skin": "Le Tigre",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "RSC 1917",
+   "skin": "De Scévola",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "RSC 1917",
+   "skin": "Chanson de Craonne",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Fedorov Avtomat",
+   "skin": "Battle of Gnila Lipa",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Fedorov Avtomat",
+   "skin": "Battle of Gorlice-Tarnòw",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Fedorov Avtomat",
+   "skin": "Battle of Lutsk",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Fedorov Avtomat",
+   "skin": "Battle of Jugla",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Fedorov Avtomat",
+   "skin": "Mikhailovich",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Fedorov Avtomat",
+   "skin": "Izmail",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Fedorov Avtomat",
+   "skin": "The Kerensky",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Fedorov Avtomat",
+   "skin": "Marasti",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Fedorov Avtomat",
+   "skin": "Oituz",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "General Liu Rifle",
+   "skin": "Battle of Gnila Lipa",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "General Liu Rifle",
+   "skin": "Battle of Gorlice-Tarnòw",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "General Liu Rifle",
+   "skin": "Battle of Lutsk",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "General Liu Rifle",
+   "skin": "Battle of Jugla",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "General Liu Rifle",
+   "skin": "Hanyang Arsenal",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "General Liu Rifle",
+   "skin": "Kulja",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "General Liu Rifle",
+   "skin": "The Yang",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "General Liu Rifle",
+   "skin": "Auby-les-Hesdin",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "General Liu Rifle",
+   "skin": "Noyelles-sur-Mer",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Farquhar-Hill",
+   "skin": "Battle of Tsingtao",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Farquhar-Hill",
+   "skin": "Battle of the Falkland Islands",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Farquhar-Hill",
+   "skin": "Battle of Jutland",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Farquhar-Hill",
+   "skin": "Battle of the Strait of Otranto",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Farquhar-Hill",
+   "skin": "Moubray",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Farquhar-Hill",
+   "skin": "Arthur",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Farquhar-Hill",
+   "skin": "The RNAS",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Farquhar-Hill",
+   "skin": "Testament of Youth",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Farquhar-Hill",
+   "skin": "Tondern Raid",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Howell Automatic",
+   "skin": "Endurance",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Howell Automatic",
+   "skin": "Rostov",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Howell Automatic",
+   "skin": "Mocheni",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Howell Automatic",
+   "skin": "Delville Wood",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Howell Automatic",
+   "skin": "Haverfield",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Howell Automatic",
+   "skin": "Higbee",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Howell Automatic",
+   "skin": "The Sacred Twenty",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Howell Automatic",
+   "skin": "Flora Sandes",
+   "exclusive": ""
+ },
+ {
+   "class": "Medic",
+   "weapon": "Howell Automatic",
+   "skin": "The Dead Kings",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "Royal Decree",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "Royal Edict",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "Royal Order",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "Royal Statute",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "Arras",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "Messines",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "Nash",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "P.B.31E",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "The Yells",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "The Rattlesnake",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "Reckless Rex",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "The Golden Retriever",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Lewis Gun",
+   "skin": "The Blood Tub",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "Veteran Soldier",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "Veteran Guard",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "Veteran Infantry",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "Veteran Cavalry",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "Trench Clearer",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "Le Cateau",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "Verdun",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "Columbus",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "Pomeroy",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "The Foch",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "The Daylight Gun",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1909 Benét-Mercié",
+   "skin": "La Grand Griffon",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Madsen MG",
+   "skin": "Camouflage Pattern",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Madsen MG",
+   "skin": "Camouflage Shroud",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Madsen MG",
+   "skin": "Camouflage Masking",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Madsen MG",
+   "skin": "Camouflage Veil",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Madsen MG",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Madsen MG",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Madsen MG",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Madsen MG",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Madsen MG",
+   "skin": "Tannenberg",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Madsen MG",
+   "skin": "Deathshead",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Madsen MG",
+   "skin": "Pozières",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Madsen MG",
+   "skin": "Sailly le Sec",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Madsen MG",
+   "skin": "The Dane",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Madsen MG",
+   "skin": "The Bazentin Rifge",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Madsen MG",
+   "skin": "The Atterdag",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "MG15 n.A.",
+   "skin": "Camouflage Pattern",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "MG15 n.A.",
+   "skin": "Camouflage Shroud",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "MG15 n.A.",
+   "skin": "Camouflage Masking",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "MG15 n.A.",
+   "skin": "Camouflage Veil",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "MG15 n.A.",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "MG15 n.A.",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "MG15 n.A.",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "MG15 n.A.",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "MG15 n.A.",
+   "skin": "Bapaume",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "MG15 n.A.",
+   "skin": "Moltke",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "MG15 n.A.",
+   "skin": "F-patrone",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "MG15 n.A.",
+   "skin": "Oigee",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "MG15 n.A.",
+   "skin": "The König",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "MG15 n.A.",
+   "skin": "The Schütte-Lanz",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "MG15 n.A.",
+   "skin": "Die Deutsche Dogge",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "BAR M1918",
+   "skin": "Royal Decree",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "BAR M1918",
+   "skin": "Royal Edict",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "BAR M1918",
+   "skin": "Royal Order",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "BAR M1918",
+   "skin": "Royal Statute",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "BAR M1918",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "BAR M1918",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "BAR M1918",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "BAR M1918",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "BAR M1918",
+   "skin": "Warhorse",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "BAR M1918",
+   "skin": "Malancourt",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "BAR M1918",
+   "skin": "Phosphorous",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "BAR M1918",
+   "skin": "Bois de Montfaucon",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "BAR M1918",
+   "skin": "The Doughboy",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "BAR M1918",
+   "skin": "The Fighting First",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "BAR M1918",
+   "skin": "The Boykin Spaniel",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Huot Automatic",
+   "skin": "Veteran Soldier",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Huot Automatic",
+   "skin": "Veteran Guard",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Huot Automatic",
+   "skin": "Veteran Infantry",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Huot Automatic",
+   "skin": "Veteran Cavalry",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Huot Automatic",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Huot Automatic",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Huot Automatic",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Huot Automatic",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Huot Automatic",
+   "skin": "Vimy Ridge",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Huot Automatic",
+   "skin": "Crucifier",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Huot Automatic",
+   "skin": "Regina",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Huot Automatic",
+   "skin": "Brock",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Huot Automatic",
+   "skin": "The Seaforth Highlander",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Huot Automatic",
+   "skin": "The Pimple",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Huot Automatic",
+   "skin": "The Canadian Cur",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Chauchat",
+   "skin": "House of Valois",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Chauchat",
+   "skin": "House of Lancaster",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Chauchat",
+   "skin": "House of Bourbon",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Chauchat",
+   "skin": "House of Bonaparte",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Chauchat",
+   "skin": "Gladiator",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Chauchat",
+   "skin": "Sho-Sho",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Chauchat",
+   "skin": "Le Flambeau",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Chauchat",
+   "skin": "Calligrammes",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Chauchat",
+   "skin": "Ma p'tite Mimi",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Parabellum MG14/17",
+   "skin": "Battle of Gnila Lipa",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Parabellum MG14/17",
+   "skin": "Battle of Gorlice-Tarnòw",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Parabellum MG14/17",
+   "skin": "Battle of Lutsk",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Parabellum MG14/17",
+   "skin": "Battle of Jugla",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Parabellum MG14/17",
+   "skin": "Degtereva",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Parabellum MG14/17",
+   "skin": "Shakhovskaya",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Parabellum MG14/17",
+   "skin": "The Prussian",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Parabellum MG14/17",
+   "skin": "Otto Dix",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Parabellum MG14/17",
+   "skin": "Paul Klee",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Perino Model 1908",
+   "skin": "Battle of Gnila Lipa",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Perino Model 1908",
+   "skin": "Battle of Gorlice-Tarnòw",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Perino Model 1908",
+   "skin": "Battle of Lutsk",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Perino Model 1908",
+   "skin": "Battle of Jugla",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Perino Model 1908",
+   "skin": "Terni",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Perino Model 1908",
+   "skin": "Capo",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Perino Model 1908",
+   "skin": "The Kopparhed",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Perino Model 1908",
+   "skin": "Pozzuolo",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "Perino Model 1908",
+   "skin": "Monte Ortigara",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1917 MG",
+   "skin": "Battle of Tsingtao",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1917 MG",
+   "skin": "Battle of the Falkland Islands",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1917 MG",
+   "skin": "Battle of Jutland",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1917 MG",
+   "skin": "Battle of the Strait of Otranto",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1917 MG",
+   "skin": "An Escalation",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1917 MG",
+   "skin": "Black Jack",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1917 MG",
+   "skin": "Lilly",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1917 MG",
+   "skin": "The Sammie",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1917 MG",
+   "skin": "Rendezvous",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "M1917 MG",
+   "skin": "Amos Wilder",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "LMG 08/18",
+   "skin": "Würdigung",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "LMG 08/18",
+   "skin": "Kaisers Ridge",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "LMG 08/18",
+   "skin": "Danzig Trench",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "LMG 08/18",
+   "skin": "Hohenzollern",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "LMG 08/18",
+   "skin": "Götterdämmerung",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "LMG 08/18",
+   "skin": "Lohengrin",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "LMG 08/18",
+   "skin": "Die Zauberflöte",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "LMG 08/18",
+   "skin": "Franz Marc",
+   "exclusive": ""
+ },
+ {
+   "class": "Support",
+   "weapon": "LMG 08/18",
+   "skin": "Der Sturm",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "Royal Decree",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "Royal Edict",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "Royal Order",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "Royal Statute",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "Desert Dweller",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "Pancho Villa",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "Rough Rider",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "Grodno",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "Kopsodze",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "The Medicine",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "The Vistula River",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Russian 1895",
+   "skin": "The Teddy",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr 98",
+   "skin": "Camouflage Pattern",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr 98",
+   "skin": "Camouflage Shroud",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr 98",
+   "skin": "Camouflage Masking",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr 98",
+   "skin": "Camouflage Veil",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr 98",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr 98",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr 98",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr 98",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr 98",
+   "skin": "Jäger",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr 98",
+   "skin": "von Schlieffen",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr 98",
+   "skin": "Liège",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr 98",
+   "skin": "Schwaben-Feste",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr 98",
+   "skin": "The Kaiser",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr 98",
+   "skin": "Von Hausen",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr 98",
+   "skin": "Die Wilde Jagd",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "Camouflage Pattern",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "Camouflage Shroud",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "Camouflage Masking",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "Camouflage Veil",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "Lone Pine",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "Jericho",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "Buckingham Mark I",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "The Silent One",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "The Pegahmagabow",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "The Black Watch",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "The Fuller",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "SMLE MKIII",
+   "skin": "The Corbett",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "Veteran Soldier",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "Veteran Guard",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "Veteran Infantry",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "Veteran Cavalry",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "Galicia",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "Ruck-zu-ruck",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "SMS Novara",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "Von Banfield",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "The Edelweiss",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "The SM U-5",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "Die Kaiserin Elisabeth",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Gewehr M.95",
+   "skin": "Osterschlacht",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1903",
+   "skin": "Veteran Soldier",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1903",
+   "skin": "Veteran Guard",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1903",
+   "skin": "Veteran Infantry",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1903",
+   "skin": "Veteran Cavalry",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1903",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1903",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1903",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1903",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1903",
+   "skin": "Belleau Wood",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1903",
+   "skin": "Marine",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1903",
+   "skin": "Camp Perry",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1903",
+   "skin": "Bois de Cunel",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1903",
+   "skin": "The Devil Dog",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1903",
+   "skin": "The Hartney",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1903",
+   "skin": "The Eisenhower",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Martini-Henry",
+   "skin": "Royal Decree",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Martini-Henry",
+   "skin": "Royal Edict",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Martini-Henry",
+   "skin": "Royal Order",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Martini-Henry",
+   "skin": "Royal Statute",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Martini-Henry",
+   "skin": "Battle of Eski Hissarlik",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Martini-Henry",
+   "skin": "Battle of Festubert",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Martini-Henry",
+   "skin": "Battle of Cote 304",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Martini-Henry",
+   "skin": "Battle of Villers-Bretonneux",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Martini-Henry",
+   "skin": "Zulu",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Martini-Henry",
+   "skin": "Kilimanjaro",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Martini-Henry",
+   "skin": "Sari Bair Ridge",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Martini-Henry",
+   "skin": "Glasgow",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Martini-Henry",
+   "skin": "The Massoko",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Martini-Henry",
+   "skin": "The Flaming Bullet",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Martini-Henry",
+   "skin": "The Bloodhound",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Lebel Model 1886",
+   "skin": "House of Valois",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Lebel Model 1886",
+   "skin": "House of Lancaster",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Lebel Model 1886",
+   "skin": "House of Bourbon",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Lebel Model 1886",
+   "skin": "House of Bonaparte",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Lebel Model 1886",
+   "skin": "Chemin des Dames",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Lebel Model 1886",
+   "skin": "Poincaré",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Lebel Model 1886",
+   "skin": "Le Poilu",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Lebel Model 1886",
+   "skin": "La Madelon",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Lebel Model 1886",
+   "skin": "Le Grand Cheval",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Mosin-Nagant M91",
+   "skin": "Battle of Gnila Lipa",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Mosin-Nagant M91",
+   "skin": "Battle of Gorlice-Tarnòw",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Mosin-Nagant M91",
+   "skin": "Battle of Lutsk",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Mosin-Nagant M91",
+   "skin": "Battle of Jugla",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Mosin-Nagant M91",
+   "skin": "Yurlova",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Mosin-Nagant M91",
+   "skin": "Kokovtseva",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Mosin-Nagant M91",
+   "skin": "The Bochkareva",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Mosin-Nagant M91",
+   "skin": "Cobadin",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Mosin-Nagant M91",
+   "skin": "Monastir",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Vetterli-Vitali M1870/87",
+   "skin": "Battle of Gnila Lipa",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Vetterli-Vitali M1870/87",
+   "skin": "Battle of Gorlice-Tarnòw",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Vetterli-Vitali M1870/87",
+   "skin": "Battle of Lutsk",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Vetterli-Vitali M1870/87",
+   "skin": "Battle of Jugla",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Vetterli-Vitali M1870/87",
+   "skin": "Guiseppe",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Vetterli-Vitali M1870/87",
+   "skin": "Taurinorum",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Vetterli-Vitali M1870/87",
+   "skin": "The Scaroni",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Vetterli-Vitali M1870/87",
+   "skin": "Crna Bend",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Vetterli-Vitali M1870/87",
+   "skin": "Doberdò",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Type 38 Arisaka",
+   "skin": "Battle of Tsingtao",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Type 38 Arisaka",
+   "skin": "Battle of the Falkland Islands",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Type 38 Arisaka",
+   "skin": "Battle of Jutland",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Type 38 Arisaka",
+   "skin": "Battle of the Strait of Otranto",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Type 38 Arisaka",
+   "skin": "Sanpachiju",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Type 38 Arisaka",
+   "skin": "Mitsuomi",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Type 38 Arisaka",
+   "skin": "Mari",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Type 38 Arisaka",
+   "skin": "Wakamiya",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Carcano M91",
+   "skin": "Battle of Tsingtao",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Carcano M91",
+   "skin": "Battle of the Falkland Islands",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Carcano M91",
+   "skin": "Battle of Jutland",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Carcano M91",
+   "skin": "Battle of the Strait of Otranto",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Carcano M91",
+   "skin": "Il Novantuno",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Carcano M91",
+   "skin": "Charge of Stupizza",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Carcano M91",
+   "skin": "The Alessandria",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Carcano M91",
+   "skin": "De Chirico",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Ross MKIII",
+   "skin": "Patriot",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Ross MKIII",
+   "skin": "V-Beach",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Ross MKIII",
+   "skin": "Zonnebeke",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Ross MKIII",
+   "skin": "St Eloi",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Ross MKIII",
+   "skin": "Absolution",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Ross MKIII",
+   "skin": "Peggy",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Ross MKIII",
+   "skin": "The Dead-Beat",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "Ross MKIII",
+   "skin": "Poperinghe",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1917 Enfield",
+   "skin": "Shellshock",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1917 Enfield",
+   "skin": "Hellfire Junction",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1917 Enfield",
+   "skin": "Jabal Canyon",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1917 Enfield",
+   "skin": "Mametz",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1917 Enfield",
+   "skin": "Hurley",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1917 Enfield",
+   "skin": "Cenotaph",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1917 Enfield",
+   "skin": "The Unknown Soldier",
+   "exclusive": ""
+ },
+ {
+   "class": "Scout",
+   "weapon": "M1917 Enfield",
+   "skin": "Company K",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "M1911",
+   "skin": "Veteran Soldier",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "M1911",
+   "skin": "Veteran Guard",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "M1911",
+   "skin": "Veteran Infantry",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "M1911",
+   "skin": "Veteran Cavalry",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "M1911",
+   "skin": "The Incarcerator",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "M1911",
+   "skin": "Protector",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "M1911",
+   "skin": "York",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "M1911",
+   "skin": "Package from Home",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "M1911",
+   "skin": "The Man Stopper",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "M1911",
+   "skin": "The Care Package",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "M1911",
+   "skin": "Lucifer",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "M1911",
+   "skin": "In Flanders Fields",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "M1911",
+   "skin": "Poodlefaker",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "PO8 Pistol",
+   "skin": "Veteran Soldier",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "PO8 Pistol",
+   "skin": "Veteran Guard",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "PO8 Pistol",
+   "skin": "Veteran Infantry",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "PO8 Pistol",
+   "skin": "Veteran Cavalry",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "PO8 Pistol",
+   "skin": "Werner Voss",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "PO8 Pistol",
+   "skin": "Count Gneisenau",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "PO8 Pistol",
+   "skin": "The Peace Seeker",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "PO8 Pistol",
+   "skin": "Der Königgrätzer",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "PO8 Pistol",
+   "skin": "Saint-Mihiel",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "PO8 Pistol",
+   "skin": "Gott mit uns",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mle 1903",
+   "skin": "Royal Decree",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mle 1903",
+   "skin": "Royal Edict",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mle 1903",
+   "skin": "Royal Order",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mle 1903",
+   "skin": "Royal Statute",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mle 1903",
+   "skin": "Charlatan",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mle 1903",
+   "skin": "Bruiser",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mle 1903",
+   "skin": "The Swede",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mle 1903",
+   "skin": "Vapenfbriks",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C93",
+   "skin": "Royal Decree",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C93",
+   "skin": "Royal Edict",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C93",
+   "skin": "Royal Order",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C93",
+   "skin": "Royal Statute",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C93",
+   "skin": "Spion Kop",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C93",
+   "skin": "Marauder",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C93",
+   "skin": "The General",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C93",
+   "skin": "Hymn of Hate",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "No. 3 Revolver",
+   "skin": "Royal Decree",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "No. 3 Revolver",
+   "skin": "Royal Edict",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "No. 3 Revolver",
+   "skin": "Royal Order",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "No. 3 Revolver",
+   "skin": "Royal Statute",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "No. 3 Revolver",
+   "skin": "Holiday Package",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "No. 3 Revolver",
+   "skin": "Achi Baba",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "No. 3 Revolver",
+   "skin": "Hitman",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "No. 3 Revolver",
+   "skin": "The Legionnaire",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "No. 3 Revolver",
+   "skin": "Imshee",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Kolibri",
+   "skin": "Royal Decree",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Kolibri",
+   "skin": "Royal Edict",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Kolibri",
+   "skin": "Royal Order",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Kolibri",
+   "skin": "Royal Statute",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Kolibri",
+   "skin": "Savior",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Kolibri",
+   "skin": "Mata Hari",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Kolibri",
+   "skin": "The Hummingbird",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Kolibri",
+   "skin": "Thingumyjig",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Nagant Revolver",
+   "skin": "Battle of Gnila Lipa",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Nagant Revolver",
+   "skin": "Battle of Gorlice-Tarnòw",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Nagant Revolver",
+   "skin": "Battle of Lutsk",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Nagant Revolver",
+   "skin": "Battle of Jugla",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Nagant Revolver",
+   "skin": "Léon",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Nagant Revolver",
+   "skin": "Emile",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Nagant Revolver",
+   "skin": "The Rasputin",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Nagant Revolver",
+   "skin": "Sarikamish",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Obrez Pistol",
+   "skin": "Battle of Gnila Lipa",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Obrez Pistol",
+   "skin": "Battle of Gorlice-Tarnòw",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Obrez Pistol",
+   "skin": "Battle of Lutsk",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Obrez Pistol",
+   "skin": "Battle of Jugla",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Obrez Pistol",
+   "skin": "Bednyak",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Obrez Pistol",
+   "skin": "Serednyak",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Obrez Pistol",
+   "skin": "The Kulak",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Obrez Pistol",
+   "skin": "Romanovka",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Revolver MK VI",
+   "skin": "Chivalry",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Revolver MK VI",
+   "skin": "Al Faw",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Revolver MK VI",
+   "skin": "Kantara",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Revolver MK VI",
+   "skin": "Bloody Bulletcourt",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Revolver MK VI",
+   "skin": "Jacka's Mob",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Revolver MK VI",
+   "skin": "For the Fallen",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Revolver MK VI",
+   "skin": "The Kiss",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Revolver MK VI",
+   "skin": "Bellicourt Tunnel",
+   "exclusive": ""
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Gasser M 1870",
+   "skin": "Veteran Soldier",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Gasser M 1870",
+   "skin": "Veteran Guard",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Gasser M 1870",
+   "skin": "Veteran Infantry",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Gasser M 1870",
+   "skin": "Veteran Cavalry",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Gasser M 1870",
+   "skin": "Dragoon",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Gasser M 1870",
+   "skin": "St Stephan",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Gasser M 1870",
+   "skin": "The Knight",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Gasser M 1870",
+   "skin": "Leopold",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Gasser M 1870",
+   "skin": "King Nicholas",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Howdah Pistol",
+   "skin": "Veteran Soldier",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Howdah Pistol",
+   "skin": "Veteran Guard",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Howdah Pistol",
+   "skin": "Veteran Infantry",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Howdah Pistol",
+   "skin": "Veteran Cavalry",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Howdah Pistol",
+   "skin": "Frontiersman",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Howdah Pistol",
+   "skin": "Hussar",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Howdah Pistol",
+   "skin": "Abu Klea",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Howdah Pistol",
+   "skin": "The Big Smoke",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Howdah Pistol",
+   "skin": "The Colonel",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "1903 Hammerless",
+   "skin": "Camouflage Pattern",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "1903 Hammerless",
+   "skin": "Camouflage Shroud",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "1903 Hammerless",
+   "skin": "Camouflage Masking",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "1903 Hammerless",
+   "skin": "Camouflage Veil",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "1903 Hammerless",
+   "skin": "Patton",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "1903 Hammerless",
+   "skin": "Eisenhower",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "1903 Hammerless",
+   "skin": "The Capone",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "1903 Hammerless",
+   "skin": "Casablanca",
+   "exclusive": "Assault"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Auto Revolver",
+   "skin": "Royal Decree",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Auto Revolver",
+   "skin": "Royal Edict",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Auto Revolver",
+   "skin": "Royal Order",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Auto Revolver",
+   "skin": "Royal Statute",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Auto Revolver",
+   "skin": "Straight Flush",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Auto Revolver",
+   "skin": "Somme",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Auto Revolver",
+   "skin": "Red Tab",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Auto Revolver",
+   "skin": "The Gordon Highlander",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Auto Revolver",
+   "skin": "Goodnight Kiss",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Auto Revolver",
+   "skin": "Pro Patria Mori",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C96",
+   "skin": "Veteran Soldier",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C96",
+   "skin": "Veteran Guard",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C96",
+   "skin": "Veteran Infantry",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C96",
+   "skin": "Veteran Cavalry",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C96",
+   "skin": "His Lordship",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C96",
+   "skin": "Churchill",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C96",
+   "skin": "Ludendorff",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C96",
+   "skin": "The Box Cannon",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "C96",
+   "skin": "Teutonic Fury",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Taschenpistole M1914",
+   "skin": "Camouflage Pattern",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Taschenpistole M1914",
+   "skin": "Camouflage Shroud",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Taschenpistole M1914",
+   "skin": "Camouflage Masking",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Taschenpistole M1914",
+   "skin": "Camouflage Veil",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Taschenpistole M1914",
+   "skin": "Kaiserschutzen",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Taschenpistole M1914",
+   "skin": "Kaiserjäger",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Taschenpistole M1914",
+   "skin": "The Nickl",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Taschenpistole M1914",
+   "skin": "Maubeuge",
+   "exclusive": "Medic"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Repetierpistole M1912",
+   "skin": "Royal Decree",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Repetierpistole M1912",
+   "skin": "Royal Edict",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Repetierpistole M1912",
+   "skin": "Royal Order",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Repetierpistole M1912",
+   "skin": "Royal Statute",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Repetierpistole M1912",
+   "skin": "Col di Lana",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Repetierpistole M1912",
+   "skin": "Hötzendorf",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Repetierpistole M1912",
+   "skin": "The Habsburg",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Repetierpistole M1912",
+   "skin": "The Kaiserjäger",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bull Dog Revolver",
+   "skin": "Royal Decree",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bull Dog Revolver",
+   "skin": "Royal Edict",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bull Dog Revolver",
+   "skin": "Royal Order",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bull Dog Revolver",
+   "skin": "Royal Statute",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bull Dog Revolver",
+   "skin": "Bighorn",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bull Dog Revolver",
+   "skin": "Gambler",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bull Dog Revolver",
+   "skin": "The Kid",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bull Dog Revolver",
+   "skin": "Beachy Bill",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Modello 1915",
+   "skin": "Veteran Soldier",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Modello 1915",
+   "skin": "Veteran Guard",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Modello 1915",
+   "skin": "Veteran Infantry",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Modello 1915",
+   "skin": "Veteran Cavalry",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Modello 1915",
+   "skin": "Diaz",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Modello 1915",
+   "skin": "Baracca",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Modello 1915",
+   "skin": "The Arditi",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Modello 1915",
+   "skin": "Il Risorgimento",
+   "exclusive": "Support"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mars Automatic",
+   "skin": "Camouflage Pattern",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mars Automatic",
+   "skin": "Camouflage Shroud",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mars Automatic",
+   "skin": "Camouflage Masking",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mars Automatic",
+   "skin": "Camouflage Veil",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mars Automatic",
+   "skin": "Hush-Hush",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mars Automatic",
+   "skin": "Fairfax",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mars Automatic",
+   "skin": "The Beast",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Mars Automatic",
+   "skin": "Syndicate",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bodeo 1889",
+   "skin": "Veteran Soldier",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bodeo 1889",
+   "skin": "Veteran Guard",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bodeo 1889",
+   "skin": "Veteran Infantry",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bodeo 1889",
+   "skin": "Veteran Cavalry",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bodeo 1889",
+   "skin": "Marmolada",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bodeo 1889",
+   "skin": "Swashbuckler",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bodeo 1889",
+   "skin": "The Valiant",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Bodeo 1889",
+   "skin": "Point Blank",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Frommer Stop",
+   "skin": "Camouflage Pattern",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Frommer Stop",
+   "skin": "Camouflage Shroud",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Frommer Stop",
+   "skin": "Camouflage Masking",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Frommer Stop",
+   "skin": "Camouflage Veil",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Frommer Stop",
+   "skin": "Caporetto",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Frommer Stop",
+   "skin": "Jagdkommando",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Frommer Stop",
+   "skin": "The Emperor",
+   "exclusive": "Scout"
+ },
+ {
+   "class": "Handguns",
+   "weapon": "Frommer Stop",
+   "skin": "Inhaber",
+   "exclusive": "Scout"
+ }
+]
